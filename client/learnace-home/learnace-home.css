@@ -1,0 +1,56 @@
+
+
+#header-logo {
+    background-image: url("http://cf.ltkcdn.net/french/images/std/121330-371x323-Whatdoesthefrenchflaglooklike.jpg");
+    background-size: 700px 600px;
+    height: 660px;
+    background-repeat: no-repeat;
+}
+
+#heading{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-family: "Arial Narrow","Arial Black","Aharoni","Monotype Corsiva";
+    font-style: oblique;
+    font-weight: bold;
+}
+#ABOUT
+{
+    background-color: aqua;
+    font-size: 26px;
+    font-style: oblique;
+    font-weight: bold;
+    font-family: "Monotype Corsiva";
+}
+
+.jumbotron h1
+{
+    text-align: center;
+}
+.jumbotron p
+{
+    text-align:center ;
+}
+.jumbotron {
+    height: 670px;
+    margin: 0px;
+}
+#jb1
+{
+    margin-top: 100px;
+    background-color: white;
+    height: 670px;
+}
+
+
+#leftslider,#rightslider
+{
+    margin-top: 150px;
+    text-align: center;
+}
+#jb1 h3
+{
+    text-align: center;
+    font-weight: bold;
+}
